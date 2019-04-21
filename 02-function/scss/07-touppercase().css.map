@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAOA,AALA,IAKI,CALE;EACL,UAAU,EAAE,KAAoB;EAChC,UAAU,EAAE,KAAoB;CAChC",
+    "sources": [
+        "07-touppercase().scss"
+    ],
+    "names": [],
+    "file": "07-touppercase().css"
+}

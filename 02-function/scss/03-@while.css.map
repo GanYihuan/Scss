@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAMC,AAAA,MAAM,CAAS;EACd,KAAK,EAAE,IAAoB;CAC3B;;AAFD,AAAA,MAAM,CAAS;EACd,KAAK,EAAE,IAAoB;CAC3B;;AAFD,AAAA,MAAM,CAAS;EACd,KAAK,EAAE,IAAoB;CAC3B;;AAFD,AAAA,MAAM,CAAS;EACd,KAAK,EAAE,IAAoB;CAC3B",
+    "sources": [
+        "03-@while.scss"
+    ],
+    "names": [],
+    "file": "03-@while.css"
+}
