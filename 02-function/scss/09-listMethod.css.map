@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAoCA,AAAA,IAAI,CAAC;EACJ,KAAK,EAAE,CAAK,CAAC,EAAE;EACf,MAAM,EAAE,CAAK,CAAC,EAAE;EAChB,OAAO,EAAC,CAAC;CAIT",
-    "sources": [
-        "09-listMethod.scss"
-    ],
-    "names": [],
-    "file": "09-listMethod.css"
-}

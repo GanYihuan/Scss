@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAwBA,AAAA,YAAY,CAAC;EACZ,KAAK,EAfM,IAAI;CAgBf;;AAcD,AAAA,WAAW,CAAC;EACX,KAAK,EArBG,OAAO;CAsBf;;AAgBD,AAAA,IAAI,CAAC;EACJ,KAAK,EAJM,IAAI,EAHF,GAAG;CAQhB",
-    "sources": [
-        "14-Map.scss"
-    ],
-    "names": [],
-    "file": "14-Map.css"
-}

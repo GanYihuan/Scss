@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "",
-    "sources": [
-        "00-@import.scss"
-    ],
-    "names": [],
-    "file": "00-@import.css"
-}

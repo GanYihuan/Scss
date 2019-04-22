@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAEA,AAAA,MAAM,CAAC;EACN,OAAO,EAAQ,GAAG;CAClB;;AAED,AAAA,MAAM,CAAC;EACN,OAAO,EAAQ,YAAY;CAC3B;;AAED,AAAA,MAAM,CAAC;EACN,OAAO,EAAE,eAAoB;CAC7B",
-    "sources": [
-        "05-quote().scss"
-    ],
-    "names": [],
-    "file": "05-quote().css"
-}

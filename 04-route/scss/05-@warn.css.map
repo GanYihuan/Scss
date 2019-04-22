@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAWA,AAAA,IAAI,CAAC;EAHJ,IAAI,EAFC,GAAQ;CAOb",
-    "sources": [
-        "05-@warn.scss"
-    ],
-    "names": [],
-    "file": "05-@warn.css"
-}
