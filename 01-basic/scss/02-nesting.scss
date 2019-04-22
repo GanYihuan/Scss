@@ -2,11 +2,11 @@
 
 nav {
 	a {
-		color: #00f;
+		color: #f00;
 
 		// &: 括号外所有父级集合(nav a)
 		header & {
-			color: #0f0;
+			color: #00f;
 		}
 	}
 }

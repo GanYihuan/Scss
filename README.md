@@ -26,7 +26,7 @@ sass --watch sass/bootstrap.scss:css/bootstrap.css
 - 点击底部栏 `Live Sass Compiler 插件` `Watch Sass`
 
 ```node
-sass --watch sass/:css/
+sass --watch scss/:css/
 ```
 
 ## 风格

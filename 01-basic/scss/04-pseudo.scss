@@ -1,6 +1,5 @@
 @charset "UTF-8";
 
-// &: .clearfix
 // &: 括号外所有父级集合
 .clearfix {
 	&:before,
@@ -8,7 +7,6 @@
 		display: table;
 		content: '';
 	}
-
 	&:after {
 		overflow: hidden;
 		clear: both;
